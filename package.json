@@ -1,0 +1,19 @@
+{
+  "name": "aquiris",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000y\u0000-\u0000r\u0000e\u0000d\u0000i\u0000s\u0000\r\u0000 \u0000\r\u0000 \u0000\r\u0000 \u0000L\u0000o\u0000g\u0000 \u0000d\u0000e\u0000 \u0000d\u0000e\u0000s\u0000e\u0000n\u0000v\u0000o\u0000l\u0000v\u0000i\u0000m\u0000e\u0000n\u0000t\u0000o\u0000\r\u0000 \u0000C\u0000o\u0000m\u0000e\u0000c\u0000e\u0000i\u0000 \u0000E\u0000f\u0000e\u0000t\u0000i\u0000v\u0000a\u0000m\u0000e\u0000n\u0000t\u0000e\u0000 \u0000o\u0000 \u0000P\u0000r\u0000o\u0000j\u0000e\u0000t\u0000o\u0000 \u00001\u00005\u0000:\u00001\u00005\u0000 \u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniobarbosa/my-redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniobarbosa/my-redis/issues"
+  },
+  "homepage": "https://github.com/antoniobarbosa/my-redis#readme"
+}
